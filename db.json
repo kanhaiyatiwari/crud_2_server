@@ -8,5 +8,10 @@
     "emplay":[
         {"status":false,
         "id":"kanhaiy"} 
+    ],
+    "home":[
+       { "status":
+       "lala"
+    }
     ]
 }
