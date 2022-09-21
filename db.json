@@ -6,17 +6,6 @@
     ]
        , 
     "emplay":[
-        {"status":false,
-        "id":"kanhaiy"} 
-    ],
-    "home":[
-       { "status":
-       "lala"
-    }
-    ],
-    "kanhaiya":[
-        {
-            "naame":"kanhaiyatiwari"
-        }
+        
     ]
 }
